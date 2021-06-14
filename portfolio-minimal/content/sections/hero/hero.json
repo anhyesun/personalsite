@@ -1,0 +1,18 @@
+{
+  "intro": "Hi, there!",
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "It's Hyesun An.",
+  "subtitle": {
+    "prefix": "I'm an aspiring junior ",
+    "highlight": "software engineer",
+    "suffix": "."
+  },
+  "description": "Looking for full-time SWE opportunity.",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "showIcons": false
+  }
+}
