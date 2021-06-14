@@ -11,7 +11,7 @@
     "social": {
       "behance": "https://behance.com",
       "github": "https://github.com/anhyesun",
-      "medium": "https:/anhyesun.medium.com",
+      "medium": "https://anhyesun.medium.com",
       "linkedin": "https://www.linkedin.com/in/anhyesun/",
       "mail": "mailto:anhyesun@gmail.com"
     }
@@ -26,8 +26,8 @@
       ],
       "ctaButton": {
         "openNewTab": true,
-        "label": "Resume",
-        "url": "/Hyesun_An_Resume.pdf"
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/anhyesun/"
       },
       "footer": [
         { }
