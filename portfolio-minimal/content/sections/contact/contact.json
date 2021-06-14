@@ -1,10 +1,10 @@
 {
   "name": "Hyesun An",
   "email": "anhyesun@gmail.com",
-  "description": "If you have any questions about my experience, feel free to reach out to me via email.",
+  "description": "If you have any questions about my experience or just want to have a quick coffee chat, feel free to reach out to me via email or linkedIn.",
   "image": {
-    "src": "../../images/favicon.png",
-    "alt": "Gatsby Logo"
+    "src": "../../images/icon.png",
+    "alt": "Hyesun icon"
   },
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],

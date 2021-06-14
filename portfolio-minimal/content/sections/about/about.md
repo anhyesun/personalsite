@@ -1,14 +1,16 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: "../../images/hyesun.png"
+imageAlt: "About Hyesun"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+I'm an enthusiastic full-stack engineer who is graduating from [UBC](https://www.ubc.ca/) in May 2022. 
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+In addition to 1 year of SWE Co-op experience from [SAP](https://www.sap.com/canada/) and [Citibank](https://www.citigroup.com/canada/en/), 
+I have a hacker and entrepreneur spirit. 
+I have won 5+ prizes from hackathons and was awarded a [Service Award for Women in CS](https://www.cs.ubc.ca/award/2021/06/visier-service-awards-computer-science) from UBC. I'm a proactive leader of community for [Women in CS](https://ubcwics.com/) and [Korean Developer meetup](https://www.meetup.com/Vancouver-KDD). 
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
+I love to expand my passion with your company, team and you. 
 
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+<!---Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+--->

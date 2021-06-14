@@ -2,46 +2,176 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "💻 PERSONAL PROJECT",
+      "title": "Snack Track",
+      "description": "Snack Track is an in-office snack purchasing web app that supports user transactions and inventory management. It provides employees, administrations and separate iPad modules. The project is sponsored by Galvanize",
+      "tags": ["React", "Redux Toolkit", "HTML/CSS", "Node.js"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup"
+        "src": "../../images/snacktrack.png",
+        "alt": "Snack Track"
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "type": "external",
+          "url": "https://snacktrack.herokuapp.com/"
         },
         {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://www.youtube.com/playlist?list=PLPBSYBMjlrSMBHmTS_jClI4Wclrryw6dH"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "💻 PERSONAL PROJECT",
+      "title": "Interline Reader",
+      "description": "Interline Reader is an interlingual learning website that for Korean course at UBC. A user is able to interact with text by text and improve theier learning experience",
+      "tags": ["Mongo DB", "React", "Redux", "HTML/CSS", "Node.js"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/interline.png",
+        "alt": "Interline Reader"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://www.interlinereader.com/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "💻 PERSONAL PROJECT",
+      "title": "Think Small",
+      "description": "ThinkSmall is a community volunteer and small business owners matching platform. Small business owners who have a need for services (such as the creation of the logo, and translation for flyers) are able to find volunteers who have the skillset to help them.",
+      "tags": ["AWS S3", "Google OAuth", "Mongo DB", "React", "Redux", "HTML/CSS", "Node.js"],
+      "image": {
+        "src": "../../images/thinksmall.png",
+        "alt": "Think Small"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/anhyesun/ThinkSmall"
+        },
+        {
+          "type": "external",
+          "url": "https://thinksmall.herokuapp.com/"
+        },
+        {
+          "type": "external",
+          "url": "https://www.youtube.com/watch?v=3YqKQQiHZdM&t=581s&ab_channel=ReactJSVancouverMeetup"
+        }
+      ]
+    }, 
+    {
+      "visible": true,
+      "category": "🌱 HACKATHON WINNING PROJECTS",
+      "title": "Champ",
+      "description": "Wone the 1st place from Hack4Health. Champ is a commmunity challenge app designed to help people reach goals and build healthy habits.",
+      "tags": ["Google Vision AI", "Firebase", "React Native", "HTML/CSS"],
+      "image": {
+        "src": "../../images/champ.jpeg",
+        "alt": "Think Small"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/champ-hack4health/champ-client"
+        },
+        {
+          "type": "external",
+          "url": "https://champappcontact.wixsite.com/champ"
+        },
+        {
+          "type": "external",
+          "url": "https://youtu.be/KiiTBkX_nQ0"
+        }
+      ]
+    }, 
+    {
+      "visible": true,
+      "category": "🌱 HACKATHON WINNING PROJECTS",
+      "title": "Goodgredient",
+      "description": "Won the Popular Prize from nwHacks2021. Goodgredients provides a simple way to check the toxicity of certain chemicals in them on your body and to the environment. Simply take a picture of your Shampoo or body wash and check which ingredient might harmful to you.",
+      "tags": ["Salesforce Einstein API", "Node.js", "Express.js", "React Native", "HTML/CSS"],
+      "image": {
+        "src": "../../images/good.png",
+        "alt": "Goodgredient"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/nw2021/GoodgredientsFront"
+        },
+        {
+          "type": "external",
+          "url": "https://devpost.com/software/goodgredients"
+        }
+      ]
+    }, 
+    {
+      "visible": true,
+      "category": "🌱 HACKATHON WINNING PROJECTS",
+      "title": "Greener Shopper",
+      "description": "Wone the 3rd place from SAP iXP Hack4Good. The GreenerShopper is your greener shopping helper Chrome extension. When going through items on amazon.ca, the extension provides us calculation of the kilograms of CO2 emissions that is put into making and shipping this product.",
+      "tags": ["Chrome Extension", "JavaScript", "HTML/CSS"],
+      "image": {
+        "src": "../../images/green.jpeg",
+        "alt": "Greener Shopper"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/BBTers/GreenerShopper"
+        },
+        {
+          "type": "external",
+          "url": "https://devpost.com/software/gasshopper"
+        }
+      ]
+    }, 
+    {
+      "visible": true,
+      "category": "🌱 HACKATHON WINNING PROJECTS",
+      "title": "Finance Hero",
+      "description": "Won the MLH Blockstack Award from cmd-f2020. Finance Hero helps users get familiar with finance, and even better, it's a fun game everyone can enjoy!",
+      "tags": ["React", "Firebase", "HTML/CSS"],
+      "image": {
+        "src": "../../images/finance.jpeg",
+        "alt": "Finance Hero"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://cmd-f-2020.vercel.app/"
+        },
+        {
+          "type": "external",
+          "url": "https://devpost.com/software/finance-hero"
+        }
+      ]
+    }, 
+    {
+      "visible": true,
+      "category": "🌱 HACKATHON WINNING PROJECTS",
+      "title": "Sales View",
+      "description": "Won the SAP Analystics Champion from nwHacks2020. SalesView is a data visualization tool. Users can post their data, see graphical analysis and statistics.",
+      "tags": ["Google Maps API", "Firebase", "React", "HTML/CSS"],
+      "image": {
+        "src": "../../images/salesview.jpeg",
+        "alt": "Think Small"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://devpost.com/software/salesview"
         }
       ]
     }
   ],
   "button": {
     "visible": true,
-    "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "label": "View Projects on Github",
+    "url": "https://github.com/anhyesun"
   }
 }
