@@ -1,8 +1,8 @@
 <img src="screenshot.png" alt="Gatsby Theme Portfolio Minimal Screenshot" width="700" />
 
-# Gatsby Starter Portfolio Minimal Theme
+# Hyesun's Personal Website
 
-#### A Gatsby Starter Project to easily get started with the Portfolio Minimal Theme.
+#### Hyesun's portfolio website
 
 Portfolio Minimal is a Gatsby Theme that let's you create outstanding one-page portfolios within minutes. This Gatsby Starter is a boilerplate project that has the theme pre-installed and pre-configured.
 
