@@ -25,7 +25,7 @@
       "visible": true,
       "category": "💻 PERSONAL PROJECT",
       "title": "Interline Reader",
-      "description": "Interline Reader is an interlingual learning website that for Korean course at UBC. A user is able to interact with text by text and improve theier learning experience",
+      "description": "Interline Reader is an interlingual learning website that for Korean course at UBC. A user is able to interact with the text by text and improve their learning experience",
       "tags": ["Mongo DB", "React", "Redux", "HTML/CSS", "Node.js"],
       "image": {
         "src": "../../images/interline.png",
@@ -67,7 +67,7 @@
       "visible": true,
       "category": "🌱 HACKATHON WINNING PROJECTS",
       "title": "Champ",
-      "description": "Won the 1st place from Hack4Health. Champ is a commmunity challenge app designed to help people reach goals and build healthy habits.",
+      "description": "Won the 1st place from Hack4Health. Champ is a community challenge app designed to help people reach goals and build healthy habits.",
       "tags": ["Google Vision AI", "Firebase", "React Native", "HTML/CSS"],
       "image": {
         "src": "../../images/champ.jpeg",
@@ -113,7 +113,7 @@
       "visible": true,
       "category": "🌱 HACKATHON WINNING PROJECTS",
       "title": "Greener Shopper",
-      "description": "Won the 3rd place from SAP iXP Hack4Good. The GreenerShopper is your greener shopping helper Chrome extension. When going through items on amazon.ca, the extension provides us calculation of the kilograms of CO2 emissions that is put into making and shipping this product.",
+      "description": "Won the 3rd place from SAP iXP Hack4Good. The GreenerShopper is your greener shopping helper Chrome extension. When going through items on amazon.ca, the extension provides us a calculation of the kilograms of CO2 emissions that is put into making and shipping this product.",
       "tags": ["Chrome Extension", "JavaScript", "HTML/CSS"],
       "image": {
         "src": "../../images/green.jpeg",
@@ -155,7 +155,7 @@
       "visible": true,
       "category": "🌱 HACKATHON WINNING PROJECTS",
       "title": "Sales View",
-      "description": "Won the SAP Analystics Champion from nwHacks2020. SalesView is a data visualization tool. Users can post their data, see graphical analysis and statistics.",
+      "description": "Won the SAP Analytics Champion from nwHacks2020. SalesView is a data visualization tool. Users can post their data, see graphical analysis and statistics.",
       "tags": ["Google Maps API", "Firebase", "React", "HTML/CSS"],
       "image": {
         "src": "../../images/salesview.jpeg",
