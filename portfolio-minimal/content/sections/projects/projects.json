@@ -65,7 +65,7 @@
     }, 
     {
       "visible": true,
-      "category": "🌱 HACKATHON WINNING PROJECTS",
+      "category": "🌱 HACKATHON WINNING PROJECT",
       "title": "Champ",
       "description": "Won the 1st place from Hack4Health. Champ is a community challenge app designed to help people reach goals and build healthy habits.",
       "tags": ["Google Vision AI", "Firebase", "React Native", "HTML/CSS"],
@@ -90,7 +90,7 @@
     }, 
     {
       "visible": true,
-      "category": "🌱 HACKATHON WINNING PROJECTS",
+      "category": "🌱 HACKATHON WINNING PROJECT",
       "title": "Goodgredient",
       "description": "Won the Popular Prize from nwHacks2021. Goodgredients provides a simple way to check the toxicity of certain chemicals in them on your body and to the environment. Simply take a picture of your Shampoo or body wash and check which ingredient might harmful to you.",
       "tags": ["Salesforce Einstein API", "Node.js", "Express.js", "React Native", "HTML/CSS"],
@@ -111,7 +111,7 @@
     }, 
     {
       "visible": true,
-      "category": "🌱 HACKATHON WINNING PROJECTS",
+      "category": "🌱 HACKATHON WINNING PROJECT",
       "title": "Greener Shopper",
       "description": "Won the 3rd place from SAP iXP Hack4Good. The GreenerShopper is your greener shopping helper Chrome extension. When going through items on amazon.ca, the extension provides us a calculation of the kilograms of CO2 emissions that is put into making and shipping this product.",
       "tags": ["Chrome Extension", "JavaScript", "HTML/CSS"],
@@ -132,7 +132,7 @@
     }, 
     {
       "visible": true,
-      "category": "🌱 HACKATHON WINNING PROJECTS",
+      "category": "🌱 HACKATHON WINNING PROJECT",
       "title": "Finance Hero",
       "description": "Won the MLH Blockstack Award from cmd-f 2020. Finance Hero helps users get familiar with finance, and even better, it's a fun game everyone can enjoy!",
       "tags": ["React", "Firebase", "HTML/CSS"],
@@ -153,7 +153,7 @@
     }, 
     {
       "visible": true,
-      "category": "🌱 HACKATHON WINNING PROJECTS",
+      "category": "🌱 HACKATHON WINNING PROJECT",
       "title": "Sales View",
       "description": "Won the SAP Analytics Champion from nwHacks2020. SalesView is a data visualization tool. Users can post their data, see graphical analysis and statistics.",
       "tags": ["Google Maps API", "Firebase", "React", "HTML/CSS"],
