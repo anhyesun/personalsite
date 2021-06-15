@@ -67,7 +67,7 @@
       "visible": true,
       "category": "🌱 HACKATHON WINNING PROJECTS",
       "title": "Champ",
-      "description": "Wone the 1st place from Hack4Health. Champ is a commmunity challenge app designed to help people reach goals and build healthy habits.",
+      "description": "Won the 1st place from Hack4Health. Champ is a commmunity challenge app designed to help people reach goals and build healthy habits.",
       "tags": ["Google Vision AI", "Firebase", "React Native", "HTML/CSS"],
       "image": {
         "src": "../../images/champ.jpeg",
@@ -113,7 +113,7 @@
       "visible": true,
       "category": "🌱 HACKATHON WINNING PROJECTS",
       "title": "Greener Shopper",
-      "description": "Wone the 3rd place from SAP iXP Hack4Good. The GreenerShopper is your greener shopping helper Chrome extension. When going through items on amazon.ca, the extension provides us calculation of the kilograms of CO2 emissions that is put into making and shipping this product.",
+      "description": "Won the 3rd place from SAP iXP Hack4Good. The GreenerShopper is your greener shopping helper Chrome extension. When going through items on amazon.ca, the extension provides us calculation of the kilograms of CO2 emissions that is put into making and shipping this product.",
       "tags": ["Chrome Extension", "JavaScript", "HTML/CSS"],
       "image": {
         "src": "../../images/green.jpeg",
@@ -134,7 +134,7 @@
       "visible": true,
       "category": "🌱 HACKATHON WINNING PROJECTS",
       "title": "Finance Hero",
-      "description": "Won the MLH Blockstack Award from cmd-f2020. Finance Hero helps users get familiar with finance, and even better, it's a fun game everyone can enjoy!",
+      "description": "Won the MLH Blockstack Award from cmd-f 2020. Finance Hero helps users get familiar with finance, and even better, it's a fun game everyone can enjoy!",
       "tags": ["React", "Firebase", "HTML/CSS"],
       "image": {
         "src": "../../images/finance.jpeg",
